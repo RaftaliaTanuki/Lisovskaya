@@ -1,4 +1,4 @@
-{
+ {
     "name": "raftaliatanuki/lisovskaya",
     "description": "for trpo",
     "type": "library",
@@ -21,7 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Lisovskaya\\": "Lisovskaya"
+            "Lisovskaya\\": "Lisovskaya",
+            "LisovskayaUnittest\\":"LisovskayaTest"
         }
     }
 }
